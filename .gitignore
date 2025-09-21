@@ -1,0 +1,19 @@
+# Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook 自动生成文件
+.ipynb_checkpoints/
+
+# 临时/日志文件
+*.log
+*.tmp
+
+# VSCode 配置文件
+.vscode/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
